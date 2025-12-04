@@ -1,43 +1,38 @@
-👋 Olá! Eu sou o Vinicius Gomes
+Gerenciador de Tarefas em Java
 
-🎓 Estudante de Tecnologia da Informação 💼 Em busca de emprego na área de TI 📍 Maringá – PR 🚀 Focado em aprender, criar projetos e evoluir na área de tecnologia.
+Aplicação simples em Java para treinar lógica de programação, POO e manipulação de listas.
 
-🧑‍💻 Tecnologias que estou aprendendo
+📌 Funcionalidades
 
-Python Java C Banco de Dados
+Adicionar tarefa
 
-📌 Projetos em Destaque
-
-🔹 Gerenciador de Tarefas em Java
-
-Aplicação simples em Java para criar, listar, editar e excluir tarefas diretamente no console. Funcionalidades:
-
-Adicionar novas tarefas
+Listar tarefas
 
 Marcar tarefa como concluída
 
-Listar todas as tarefas
+Remover tarefa
 
-Remover tarefas
+Sistema totalmente via console
 
-Armazenamento em memória (ideal para iniciantes)
+🚀 Como executar
 
-Tecnologias: Java (POO, console), Estruturas de dados
+Certifique-se de ter o Java instalado.
 
-🎯 Objetivos Atuais
+Baixe/clon e o repositório.
 
-Construir portfólio sólido no GitHub
+Dentro da pasta src, execute:
 
-Aprender boas práticas de desenvolvimento
+javac Main.java
+java Main
+📂 Estrutura
+src/
+├── Main.java
+├── Tarefa.java
+└── Gerenciador.java
+🧠 Ideal para:
 
-Evoluir em Python e desenvolvimento web
+Iniciantes em Java
 
-Conseguir meu primeiro estágio em TI
+Treinar POO
 
-📬 Contato
-
-LinkedIn: (adicione seu link aqui)
-
-E-mail: (adicione seu e-mail aqui)
-
-⭐ Obrigado por visitar meu perfil!
+Criar portfólio para estágio
