@@ -29,6 +29,7 @@ src/
 ├── Main.java
 ├── Tarefa.java
 └── Gerenciador.java
+
 🧠 Ideal para:
 
 Iniciantes em Java
